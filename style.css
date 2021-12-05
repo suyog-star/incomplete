@@ -1,0 +1,28 @@
+.hi {
+    box-shadow: 5px 5px 5px cyan;
+    padding:25px;
+    margin: 30px;
+    color:cyan;
+    font-weight: bold;
+    
+}
+
+canvas {
+    border-radius: 25px;
+    box-shadow: 5px 5px 5px red;
+    margin: 25px;
+    padding: 32px;
+    
+    
+}
+.copyright-footer {
+    bottom: 0;
+    font-weight: bold;
+    text-align:center;
+    color:cyan;
+    font-weight: bold;
+    font-style: initial;
+    border-radius: 25px;
+    padding: 10px;
+    margin: 15px;
+}
